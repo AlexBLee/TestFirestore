@@ -1,0 +1,40 @@
+{
+    "99292F7F25BC05D7_Dispensary_Slot_0": {
+      "Date": 637390651697356400,
+      "DisplayName": "",
+      "Exp": 195500,
+      "ItemId": "Seed_Afghani",
+      "PFID": "99292F7F25BC05D7",
+      "Price": 1,
+      "PSG": "Afghani",
+      "Quality": 12,
+      "Quantity": 3,
+      "SlotID": "Dispensary_Slot_0"
+    },
+
+    "99292F7F25BC05D7_Dispensary_Slot_1": {
+      "Date": 637390651697356400,
+      "DisplayName": "",
+      "Exp": 195500,
+      "ItemId": "Seed_Afghani",
+      "PFID": "99292F7F25BC05D7",
+      "Price": 1,
+      "PSG": "Afghani",
+      "Quality": 12,
+      "Quantity": 3,
+      "SlotID": "Dispensary_Slot_1"
+    },
+
+    "99292F7F25BC05D8_Dispensary_Slot_0": {
+      "Date": 637390651697356400,
+      "DisplayName": "",
+      "Exp": 195500,
+      "ItemId": "Seed_Afghani",
+      "PFID": "99292F7F25BC05D8",
+      "Price": 1,
+      "PSG": "Afghani",
+      "Quality": 12,
+      "Quantity": 3,
+      "SlotID": "Dispensary_Slot_0"
+    }
+}
